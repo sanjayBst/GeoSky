@@ -1,4 +1,4 @@
-# GoeSky
+# GeoSky
 React based web app
 
 
