@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GeoSky/static/css/main.d5e35c23.css",
+    "main.js": "/GeoSky/static/js/main.27931e98.js",
+    "static/media/noa.jpg": "/GeoSky/static/media/noa.4eeda598aa695646e738.jpg",
+    "index.html": "/GeoSky/index.html",
+    "main.d5e35c23.css.map": "/GeoSky/static/css/main.d5e35c23.css.map",
+    "main.27931e98.js.map": "/GeoSky/static/js/main.27931e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e35c23.css",
+    "static/js/main.27931e98.js"
+  ]
+}
